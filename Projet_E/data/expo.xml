@@ -1,0 +1,15 @@
+<Expo titre="KJC" online="false" date="28-08-2022" price="10.0">
+  <texte>KJC</texte>
+  <dateEvent>2022-08-27 22:00:00.0 UTC</dateEvent>
+  <description>Korean Jewelry &amp; Cosmetics</description>
+  <artist>
+    <firstname>Franco</firstname>
+    <lastname>Bellucci</lastname>
+    <country>Italy</country>
+  </artist>
+  <artist>
+    <firstname>Heide</firstname>
+    <lastname>De Bruyne</lastname>
+    <country>Belgium</country>
+  </artist>
+</Expo>
